@@ -39,14 +39,17 @@
             "id": "81a0610c54a4be34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/阶段03-提示词模板.md",
-                "mode": "preview",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -51,
+                  "y": -50,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "阶段03-提示词模板"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
@@ -85,29 +88,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "1de6d5a276fc4930",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0145dd79140c9513",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,16 +260,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "daf8022741517566",
+  "active": "81a0610c54a4be34",
   "lastOpenFiles": [
+    "docs/学习路线.md",
     "docs/阶段03-提示词模板.md",
+    "未命名.canvas",
     "docs/阶段02-Embedding与相似度.md",
     "docs/阶段08-RAG检索问答.md",
-    "未命名.canvas",
     "未命名.base",
     "未命名 1.base",
     "README.md",
-    "docs/学习路线.md",
     "docs/阶段01-模型调用入门.md",
     "docs/阶段07-向量存储与检索.md",
     "docs",
