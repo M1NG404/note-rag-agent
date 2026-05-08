@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a7ee2c2b80c744c","x":-320,"y":0,"width":250,"height":60,"type":"text","text":"PromptTemplate"},
+		{"id":"b735641293d9e601","x":-120,"y":-160,"width":164,"height":55,"type":"text","text":"提示词模版"},
+		{"id":"af1064a9bfdcbf57","x":-20,"y":3,"width":238,"height":55,"type":"text","text":"FewShotPrompTemplate"}
+	],
+	"edges":[
+		{"id":"b3e0b1d9aeeea926","fromNode":"b735641293d9e601","fromSide":"bottom","toNode":"7a7ee2c2b80c744c","toSide":"top"},
+		{"id":"7fcc445e7f53b85e","fromNode":"b735641293d9e601","fromSide":"bottom","toNode":"af1064a9bfdcbf57","toSide":"top"}
+	]
+}
