@@ -6,6 +6,7 @@
       {
         "id": "accc72dad935de30",
         "type": "tabs",
+        "dimension": 14.57725947521866,
         "children": [
           {
             "id": "5d0ce1cd51d5720c",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/阶段笔记模板.md",
-                "mode": "source",
+                "file": "docs/阶段03-提示词模板.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阶段笔记模板"
+              "title": "阶段03-提示词模板"
             }
           },
           {
@@ -87,7 +88,43 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "87a2a85c204e6370",
+        "type": "tabs",
+        "dimension": 85.42274052478135,
+        "children": [
+          {
+            "id": "a0c54f4986eed766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/阶段03-提示词模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阶段03-提示词模板"
+            }
+          },
+          {
+            "id": "161e988038081531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/阶段04-Chain与Runnable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阶段04-Chain与Runnable"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,8 +176,24 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "0f2de80d7b59547c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/阶段04-Chain与Runnable.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "阶段04-Chain与Runnable 的大纲"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "docs/阶段04-Chain与Runnable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "阶段04-Chain与Runnable 的反向链接列表"
             }
           },
           {
@@ -179,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Drawing 2026-05-08 23.41.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Drawing 2026-05-08 23.41.32.excalidraw 的出链列表"
             }
           },
           {
@@ -217,21 +270,6 @@
             }
           },
           {
-            "id": "0f2de80d7b59547c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
             "id": "93906af4d3e9821a",
             "type": "leaf",
             "state": {
@@ -242,11 +280,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,28 +295,39 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81a0610c54a4be34",
+  "active": "161e988038081531",
   "lastOpenFiles": [
-    "docs/学习路线.md",
+    "docs/阶段05-会话记忆.md",
+    "Drawing 2026-05-08 23.41.32.excalidraw.md",
     "docs/阶段03-提示词模板.md",
+    "阶段 3：提示词模板.md",
+    "未命名.md",
     "未命名.canvas",
-    "docs/阶段02-Embedding与相似度.md",
+    "阶段 3：提示词模板 2.md",
+    "阶段 3：提示词模板 1.md",
+    "阶段 3：提示词模板^promt.md",
+    "^promt.md",
+    "PromptTemplate^promt.md",
+    "PromptTemplate.md",
+    "().md",
     "docs/阶段08-RAG检索问答.md",
+    "docs/阶段02-Embedding与相似度.md",
+    "README.md",
+    "docs/学习路线.md",
+    "docs/阶段笔记模板.md",
     "未命名.base",
     "未命名 1.base",
-    "README.md",
     "docs/阶段01-模型调用入门.md",
     "docs/阶段07-向量存储与检索.md",
     "docs",
-    "docs/阶段笔记模板.md",
     "学习路线.md",
     "docs",
     "欢迎.md",
     "docs/阶段06-文档加载与分割.md",
-    "docs/阶段05-会话记忆.md",
     "docs/阶段04-Chain与Runnable.md"
   ]
 }

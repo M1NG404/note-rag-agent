@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"7a7ee2c2b80c744c","type":"text","text":"PromptTemplate","x":-320,"y":0,"width":250,"height":60},
-		{"id":"b735641293d9e601","type":"text","text":"提示词模版","x":-120,"y":-160,"width":164,"height":55},
-		{"id":"af1064a9bfdcbf57","type":"text","text":"FewShotPrompTemplate","x":-20,"y":3,"width":238,"height":55},
-		{"id":"910f975c67216301","x":181,"y":-163,"width":250,"height":60,"type":"text","text":"test\n"},
-		{"id":"bdc92f81252ca5ea","x":-141,"y":-272,"width":250,"height":60,"type":"text","text":"ads asd "}
+		{"id":"af1064a9bfdcbf57","type":"text","text":"FewShotPromptTemplate","x":-20,"y":3,"width":255,"height":55},
+		{"id":"910f975c67216301","type":"text","text":"ChatPromptTemplate","x":280,"y":-2,"width":250,"height":60},
+		{"id":"b735641293d9e601","type":"text","text":"提示词模版\n[[阶段03-提示词模板#^prompt]]","x":-41,"y":-180,"width":297,"height":60},
+		{"id":"d1243988ce413315","type":"text","text":"[[阶段 3：提示词模板#^chain]]","x":-356,"y":157,"width":356,"height":63}
 	],
 	"edges":[
 		{"id":"b3e0b1d9aeeea926","fromNode":"b735641293d9e601","fromSide":"bottom","toNode":"7a7ee2c2b80c744c","toSide":"top"},
 		{"id":"7fcc445e7f53b85e","fromNode":"b735641293d9e601","fromSide":"bottom","toNode":"af1064a9bfdcbf57","toSide":"top"},
-		{"id":"9efe42700066fa5c","fromNode":"b735641293d9e601","fromSide":"right","toNode":"910f975c67216301","toSide":"left"}
+		{"id":"9efe42700066fa5c","fromNode":"b735641293d9e601","fromSide":"bottom","toNode":"910f975c67216301","toSide":"top"}
 	]
 }

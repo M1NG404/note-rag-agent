@@ -134,7 +134,7 @@ chain = first_prompt | model | (lambda ai_msg: {"name": ai_msg.content}) | secon
 AIMessage(content="曹若曦") -> {"name": "曹若曦"}
 ```
 
-在 LangChain 中，普通函数可以被包装成 Runnable，用来做中间数据转换。
+在 LangChain 中，普通函数可以被包装成 Runnable，用来做中间数据转换。。
 
 ## RunnablePassthrough
 
